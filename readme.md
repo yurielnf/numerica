@@ -1,4 +1,3 @@
-author yurielnf@gmail.com
-
-#Collaborators
+#Authors 
+* yurielnf@gmail.com
 * dmiravet@gmail.com
